@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.Card-Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin: 2rem;
+}
+
+.Card {
+  margin: 2rem;
+}
